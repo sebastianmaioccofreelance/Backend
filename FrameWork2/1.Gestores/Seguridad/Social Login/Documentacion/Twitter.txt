@@ -1,0 +1,50 @@
+﻿**************************************************************** Twitter ****************************************************************
+
+
+cuenta: naiosoft.compania@gmail.com
+
+admin: 
+
+https://developer.twitter.com/en/portal/projects/1440461743084298247/apps/22003330/settings
+https://developer.twitter.com/en/portal/projects/1440461743084298247/apps/22003330/keys
+
+Video Tutorial
+
+https://www.youtube.com/watch?v=FZ819Vxb85A
+https://www.youtube.com/watch?v=5m4kD11Ai2w
+https://www.youtube.com/watch?v=2UAWJm9xfBY&t=98s (este es bueno)
+
+documentacion
+
+https://code.tutsplus.com/es/tutorials/how-to-authenticate-users-with-twitter-oauth-20--cms-25713
+http://www.maestrosdelweb.com/twitter-autenticacion-oauth-api-login/
+
+https://api.twitter.com/oauth/request_token
+
+
+
+
+oauth_signature, consumer secret
+
+https://stackoverflow.com/questions/30706133/create-oauth-signature-with-hmac-sha1-encryption-returns-http-401
+https://developer.twitter.com/en/docs/authentication/oauth-1-0a/creating-a-signature
+https://stackoverflow.com/questions/57133025/what-is-equivalent-hash-hmac-php-on-visual-basic-net
+https://documentacion.cnmc.es/doc/pages/viewpage.action?pageId=10682370
+https://csharp.hotexamples.com/es/examples/-/OAuthBase/GenerateSignature/php-oauthbase-generatesignature-method-examples.html
+http://www.timpinkawa.net/misc/OAuthBase.cs
+
+Request token endpoint
+
+https://api.twitter.com/oauth/request_token
+
+Authorization code
+
+https://api.twitter.com/oauth/authorize?oauth_token={{oauth_token}}
+
+Access token
+
+https://api.twitter.com/oauth/access_token
+
+get user information
+
+https://api.twitter.com/1.1/account/verify_credentials.json

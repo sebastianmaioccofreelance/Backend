@@ -1,0 +1,656 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "R:\\Proyecto .net catalogo\\Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A96CFB8-5FCE-4159-9117-F55F7FBD6BFC}|FrameWork2\\FrameWork.vbproj|r:\\proyecto .net catalogo\\backend\\framework2\\2.modulos\\extensiones.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{8A96CFB8-5FCE-4159-9117-F55F7FBD6BFC}|FrameWork2\\FrameWork.vbproj|solutionrelative:framework2\\2.modulos\\extensiones.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A96CFB8-5FCE-4159-9117-F55F7FBD6BFC}|FrameWork2\\FrameWork.vbproj|R:\\Proyecto .net catalogo\\Backend\\framework2\\1.gestores\\seguridad\\entidades\\seg_usuarios.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{8A96CFB8-5FCE-4159-9117-F55F7FBD6BFC}|FrameWork2\\FrameWork.vbproj|solutionrelative:framework2\\1.gestores\\seguridad\\entidades\\seg_usuarios.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A96CFB8-5FCE-4159-9117-F55F7FBD6BFC}|FrameWork2\\FrameWork.vbproj|R:\\Proyecto .net catalogo\\Backend\\framework2\\1.gestores\\ges_files.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{8A96CFB8-5FCE-4159-9117-F55F7FBD6BFC}|FrameWork2\\FrameWork.vbproj|solutionrelative:framework2\\1.gestores\\ges_files.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A96CFB8-5FCE-4159-9117-F55F7FBD6BFC}|FrameWork2\\FrameWork.vbproj|R:\\Proyecto .net catalogo\\Backend\\framework2\\1.gestores\\ges_utilities.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{8A96CFB8-5FCE-4159-9117-F55F7FBD6BFC}|FrameWork2\\FrameWork.vbproj|solutionrelative:framework2\\1.gestores\\ges_utilities.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84AEE4CB-07BA-46E8-A0B5-A364FB19C734}|Console Test\\Console test\\Console test.vbproj|R:\\Proyecto .net catalogo\\Backend\\console test\\console test\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{84AEE4CB-07BA-46E8-A0B5-A364FB19C734}|Console Test\\Console test\\Console test.vbproj|solutionrelative:console test\\console test\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34C38DF7-611F-4606-9DD1-6FA241AB65C1}|Webapi\\WebApi.vbproj|R:\\Proyecto .net catalogo\\Backend\\webapi\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{34C38DF7-611F-4606-9DD1-6FA241AB65C1}|Webapi\\WebApi.vbproj|solutionrelative:webapi\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34C38DF7-611F-4606-9DD1-6FA241AB65C1}|Webapi\\WebApi.vbproj|R:\\Proyecto .net catalogo\\Backend\\webapi\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{34C38DF7-611F-4606-9DD1-6FA241AB65C1}|Webapi\\WebApi.vbproj|solutionrelative:webapi\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34C38DF7-611F-4606-9DD1-6FA241AB65C1}|Webapi\\WebApi.vbproj|R:\\Proyecto .net catalogo\\Backend\\webapi\\global.asax.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{34C38DF7-611F-4606-9DD1-6FA241AB65C1}|Webapi\\WebApi.vbproj|solutionrelative:webapi\\global.asax.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A96CFB8-5FCE-4159-9117-F55F7FBD6BFC}|FrameWork2\\FrameWork.vbproj|R:\\Proyecto .net catalogo\\Backend\\framework2\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{8A96CFB8-5FCE-4159-9117-F55F7FBD6BFC}|FrameWork2\\FrameWork.vbproj|solutionrelative:framework2\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A96CFB8-5FCE-4159-9117-F55F7FBD6BFC}|FrameWork2\\FrameWork.vbproj|R:\\Proyecto .net catalogo\\Backend\\framework2\\z.documentacion\\datos claves\\datos de cuentas.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8A96CFB8-5FCE-4159-9117-F55F7FBD6BFC}|FrameWork2\\FrameWork.vbproj|solutionrelative:framework2\\z.documentacion\\datos claves\\datos de cuentas.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A96CFB8-5FCE-4159-9117-F55F7FBD6BFC}|FrameWork2\\FrameWork.vbproj|R:\\Proyecto .net catalogo\\Backend\\framework2\\3.clases bases\\fw_basedbcontext.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{8A96CFB8-5FCE-4159-9117-F55F7FBD6BFC}|FrameWork2\\FrameWork.vbproj|solutionrelative:framework2\\3.clases bases\\fw_basedbcontext.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A96CFB8-5FCE-4159-9117-F55F7FBD6BFC}|FrameWork2\\FrameWork.vbproj|R:\\Proyecto .net catalogo\\Backend\\framework2\\1.gestores\\ges_queries.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{8A96CFB8-5FCE-4159-9117-F55F7FBD6BFC}|FrameWork2\\FrameWork.vbproj|solutionrelative:framework2\\1.gestores\\ges_queries.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A96CFB8-5FCE-4159-9117-F55F7FBD6BFC}|FrameWork2\\FrameWork.vbproj|R:\\Proyecto .net catalogo\\Backend\\framework2\\1.gestores\\ges_excel.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{8A96CFB8-5FCE-4159-9117-F55F7FBD6BFC}|FrameWork2\\FrameWork.vbproj|solutionrelative:framework2\\1.gestores\\ges_excel.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C74790D7-6458-48F2-AAF9-1B3EEDBD3858}|Business Logic\\BusinessLogic.vbproj|R:\\Proyecto .net catalogo\\Backend\\business logic\\2.business logic\\business_test.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{C74790D7-6458-48F2-AAF9-1B3EEDBD3858}|Business Logic\\BusinessLogic.vbproj|solutionrelative:business logic\\2.business logic\\business_test.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C74790D7-6458-48F2-AAF9-1B3EEDBD3858}|Business Logic\\BusinessLogic.vbproj|R:\\Proyecto .net catalogo\\Backend\\business logic\\2.business logic\\business_login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{C74790D7-6458-48F2-AAF9-1B3EEDBD3858}|Business Logic\\BusinessLogic.vbproj|solutionrelative:business logic\\2.business logic\\business_login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C74790D7-6458-48F2-AAF9-1B3EEDBD3858}|Business Logic\\BusinessLogic.vbproj|R:\\Proyecto .net catalogo\\Backend\\business logic\\1.transactions\\transaction_test.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{C74790D7-6458-48F2-AAF9-1B3EEDBD3858}|Business Logic\\BusinessLogic.vbproj|solutionrelative:business logic\\1.transactions\\transaction_test.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C74790D7-6458-48F2-AAF9-1B3EEDBD3858}|Business Logic\\BusinessLogic.vbproj|R:\\Proyecto .net catalogo\\Backend\\business logic\\1.transactions\\transaction_login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{C74790D7-6458-48F2-AAF9-1B3EEDBD3858}|Business Logic\\BusinessLogic.vbproj|solutionrelative:business logic\\1.transactions\\transaction_login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84AEE4CB-07BA-46E8-A0B5-A364FB19C734}|Console Test\\Console test\\Console test.vbproj|R:\\Proyecto .net catalogo\\Backend\\console test\\console test\\console test.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{84AEE4CB-07BA-46E8-A0B5-A364FB19C734}|Console Test\\Console test\\Console test.vbproj|solutionrelative:console test\\console test\\console test.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A96CFB8-5FCE-4159-9117-F55F7FBD6BFC}|FrameWork2\\FrameWork.vbproj|R:\\Proyecto .net catalogo\\Backend\\framework2\\3.clases bases\\fw_basegestores.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{8A96CFB8-5FCE-4159-9117-F55F7FBD6BFC}|FrameWork2\\FrameWork.vbproj|solutionrelative:framework2\\3.clases bases\\fw_basegestores.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A96CFB8-5FCE-4159-9117-F55F7FBD6BFC}|FrameWork2\\FrameWork.vbproj|R:\\Proyecto .net catalogo\\Backend\\framework2\\3.clases bases\\fw_basegestor.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{8A96CFB8-5FCE-4159-9117-F55F7FBD6BFC}|FrameWork2\\FrameWork.vbproj|solutionrelative:framework2\\3.clases bases\\fw_basegestor.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A96CFB8-5FCE-4159-9117-F55F7FBD6BFC}|FrameWork2\\FrameWork.vbproj|R:\\Proyecto .net catalogo\\Backend\\framework2\\3.clases bases\\fw_basedao.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{8A96CFB8-5FCE-4159-9117-F55F7FBD6BFC}|FrameWork2\\FrameWork.vbproj|solutionrelative:framework2\\3.clases bases\\fw_basedao.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A96CFB8-5FCE-4159-9117-F55F7FBD6BFC}|FrameWork2\\FrameWork.vbproj|R:\\Proyecto .net catalogo\\Backend\\framework2\\3.clases bases\\fw_basebusiness.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{8A96CFB8-5FCE-4159-9117-F55F7FBD6BFC}|FrameWork2\\FrameWork.vbproj|solutionrelative:framework2\\3.clases bases\\fw_basebusiness.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|R:\\Proyecto .net catalogo\\Backend\\Business Logic\\5.Queries\\sql\\sql.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Business Logic\\5.Queries\\sql\\sql.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A96CFB8-5FCE-4159-9117-F55F7FBD6BFC}|FrameWork2\\FrameWork.vbproj|R:\\Proyecto .net catalogo\\Backend\\framework2\\2.modulos\\applicationconfiguration.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{8A96CFB8-5FCE-4159-9117-F55F7FBD6BFC}|FrameWork2\\FrameWork.vbproj|solutionrelative:framework2\\2.modulos\\applicationconfiguration.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A96CFB8-5FCE-4159-9117-F55F7FBD6BFC}|FrameWork2\\FrameWork.vbproj|R:\\Proyecto .net catalogo\\Backend\\framework2\\2.modulos\\modelvalidations.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{8A96CFB8-5FCE-4159-9117-F55F7FBD6BFC}|FrameWork2\\FrameWork.vbproj|solutionrelative:framework2\\2.modulos\\modelvalidations.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A96CFB8-5FCE-4159-9117-F55F7FBD6BFC}|FrameWork2\\FrameWork.vbproj|R:\\Proyecto .net catalogo\\Backend\\framework2\\4.dao\\dao_usuariorol.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{8A96CFB8-5FCE-4159-9117-F55F7FBD6BFC}|FrameWork2\\FrameWork.vbproj|solutionrelative:framework2\\4.dao\\dao_usuariorol.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C74790D7-6458-48F2-AAF9-1B3EEDBD3858}|Business Logic\\BusinessLogic.vbproj|R:\\Proyecto .net catalogo\\Backend\\business logic\\a.clases bases\\framework\\bl_basegestores.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{C74790D7-6458-48F2-AAF9-1B3EEDBD3858}|Business Logic\\BusinessLogic.vbproj|solutionrelative:business logic\\a.clases bases\\framework\\bl_basegestores.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C74790D7-6458-48F2-AAF9-1B3EEDBD3858}|Business Logic\\BusinessLogic.vbproj|R:\\Proyecto .net catalogo\\Backend\\business logic\\a.clases bases\\framework\\bl_basegestor.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{C74790D7-6458-48F2-AAF9-1B3EEDBD3858}|Business Logic\\BusinessLogic.vbproj|solutionrelative:business logic\\a.clases bases\\framework\\bl_basegestor.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C74790D7-6458-48F2-AAF9-1B3EEDBD3858}|Business Logic\\BusinessLogic.vbproj|R:\\Proyecto .net catalogo\\Backend\\business logic\\a.clases bases\\framework\\bl_extensiones.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{C74790D7-6458-48F2-AAF9-1B3EEDBD3858}|Business Logic\\BusinessLogic.vbproj|solutionrelative:business logic\\a.clases bases\\framework\\bl_extensiones.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C74790D7-6458-48F2-AAF9-1B3EEDBD3858}|Business Logic\\BusinessLogic.vbproj|R:\\Proyecto .net catalogo\\Backend\\business logic\\a.clases bases\\framework\\bl_utilities.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{C74790D7-6458-48F2-AAF9-1B3EEDBD3858}|Business Logic\\BusinessLogic.vbproj|solutionrelative:business logic\\a.clases bases\\framework\\bl_utilities.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C74790D7-6458-48F2-AAF9-1B3EEDBD3858}|Business Logic\\BusinessLogic.vbproj|R:\\Proyecto .net catalogo\\Backend\\business logic\\a.clases bases\\framework\\bl_basetransaction.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{C74790D7-6458-48F2-AAF9-1B3EEDBD3858}|Business Logic\\BusinessLogic.vbproj|solutionrelative:business logic\\a.clases bases\\framework\\bl_basetransaction.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C74790D7-6458-48F2-AAF9-1B3EEDBD3858}|Business Logic\\BusinessLogic.vbproj|R:\\Proyecto .net catalogo\\Backend\\business logic\\a.clases bases\\framework\\bl_basedtorequestresponse.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{C74790D7-6458-48F2-AAF9-1B3EEDBD3858}|Business Logic\\BusinessLogic.vbproj|solutionrelative:business logic\\a.clases bases\\framework\\bl_basedtorequestresponse.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C74790D7-6458-48F2-AAF9-1B3EEDBD3858}|Business Logic\\BusinessLogic.vbproj|R:\\Proyecto .net catalogo\\Backend\\business logic\\a.clases bases\\framework\\bl_basedbcontext.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{C74790D7-6458-48F2-AAF9-1B3EEDBD3858}|Business Logic\\BusinessLogic.vbproj|solutionrelative:business logic\\a.clases bases\\framework\\bl_basedbcontext.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C74790D7-6458-48F2-AAF9-1B3EEDBD3858}|Business Logic\\BusinessLogic.vbproj|R:\\Proyecto .net catalogo\\Backend\\business logic\\a.clases bases\\framework\\bl_basedao.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{C74790D7-6458-48F2-AAF9-1B3EEDBD3858}|Business Logic\\BusinessLogic.vbproj|solutionrelative:business logic\\a.clases bases\\framework\\bl_basedao.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C74790D7-6458-48F2-AAF9-1B3EEDBD3858}|Business Logic\\BusinessLogic.vbproj|R:\\Proyecto .net catalogo\\Backend\\business logic\\a.clases bases\\framework\\bl_basebusiness.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{C74790D7-6458-48F2-AAF9-1B3EEDBD3858}|Business Logic\\BusinessLogic.vbproj|solutionrelative:business logic\\a.clases bases\\framework\\bl_basebusiness.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C74790D7-6458-48F2-AAF9-1B3EEDBD3858}|Business Logic\\BusinessLogic.vbproj|R:\\Proyecto .net catalogo\\Backend\\business logic\\b.configuration\\mod_configurations.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{C74790D7-6458-48F2-AAF9-1B3EEDBD3858}|Business Logic\\BusinessLogic.vbproj|solutionrelative:business logic\\b.configuration\\mod_configurations.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34C38DF7-611F-4606-9DD1-6FA241AB65C1}|Webapi\\WebApi.vbproj|R:\\Proyecto .net catalogo\\Backend\\webapi\\controllers\\testcontroller.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{34C38DF7-611F-4606-9DD1-6FA241AB65C1}|Webapi\\WebApi.vbproj|solutionrelative:webapi\\controllers\\testcontroller.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{90243340-bd7a-11d0-93ef-00a0c90f2734}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1729659906:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ges_Utilities.vb",
+              "DocumentMoniker": "R:\\Proyecto .net catalogo\\Backend\\FrameWork2\\1.Gestores\\Ges_Utilities.vb",
+              "RelativeDocumentMoniker": "FrameWork2\\1.Gestores\\Ges_Utilities.vb",
+              "ToolTip": "R:\\Proyecto .net catalogo\\Backend\\FrameWork2\\1.Gestores\\Ges_Utilities.vb",
+              "RelativeToolTip": "FrameWork2\\1.Gestores\\Ges_Utilities.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-07T19:04:35.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.config",
+              "DocumentMoniker": "R:\\Proyecto .net catalogo\\Backend\\Console Test\\Console test\\App.config",
+              "RelativeDocumentMoniker": "Console Test\\Console test\\App.config",
+              "ToolTip": "R:\\Proyecto .net catalogo\\Backend\\Console Test\\Console test\\App.config",
+              "RelativeToolTip": "Console Test\\Console test\\App.config",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAUwBQAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-04-11T13:17:31.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Global.asax.vb",
+              "DocumentMoniker": "R:\\Proyecto .net catalogo\\Backend\\Webapi\\Global.asax.vb",
+              "RelativeDocumentMoniker": "Webapi\\Global.asax.vb",
+              "ToolTip": "R:\\Proyecto .net catalogo\\Backend\\Webapi\\Global.asax.vb",
+              "RelativeToolTip": "Webapi\\Global.asax.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-11T13:15:45.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Web.config",
+              "DocumentMoniker": "R:\\Proyecto .net catalogo\\Backend\\Webapi\\Web.config",
+              "RelativeDocumentMoniker": "Webapi\\Web.config",
+              "ToolTip": "R:\\Proyecto .net catalogo\\Backend\\Webapi\\Web.config",
+              "RelativeToolTip": "Webapi\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-04-11T13:15:33.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.config",
+              "DocumentMoniker": "R:\\Proyecto .net catalogo\\Backend\\FrameWork2\\App.config",
+              "RelativeDocumentMoniker": "FrameWork2\\App.config",
+              "ToolTip": "R:\\Proyecto .net catalogo\\Backend\\FrameWork2\\App.config",
+              "RelativeToolTip": "FrameWork2\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-04-11T13:08:37.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Datos de cuentas.txt",
+              "DocumentMoniker": "R:\\Proyecto .net catalogo\\Backend\\FrameWork2\\Z.Documentacion\\Datos claves\\Datos de cuentas.txt",
+              "RelativeDocumentMoniker": "FrameWork2\\Z.Documentacion\\Datos claves\\Datos de cuentas.txt",
+              "ToolTip": "R:\\Proyecto .net catalogo\\Backend\\FrameWork2\\Z.Documentacion\\Datos claves\\Datos de cuentas.txt",
+              "RelativeToolTip": "FrameWork2\\Z.Documentacion\\Datos claves\\Datos de cuentas.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-04T16:20:43.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Ges_Excel.vb",
+              "DocumentMoniker": "R:\\Proyecto .net catalogo\\Backend\\FrameWork2\\1.Gestores\\Ges_Excel.vb",
+              "RelativeDocumentMoniker": "FrameWork2\\1.Gestores\\Ges_Excel.vb",
+              "ToolTip": "R:\\Proyecto .net catalogo\\Backend\\FrameWork2\\1.Gestores\\Ges_Excel.vb",
+              "RelativeToolTip": "FrameWork2\\1.Gestores\\Ges_Excel.vb",
+              "ViewState": "AQIAAAkBAAAAAAAAAAAAAB0BAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-27T18:13:49.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Extensiones.vb",
+              "DocumentMoniker": "R:\\Proyecto .net catalogo\\Backend\\FrameWork2\\2.Modulos\\Extensiones.vb",
+              "RelativeDocumentMoniker": "FrameWork2\\2.Modulos\\Extensiones.vb",
+              "ToolTip": "R:\\Proyecto .net catalogo\\Backend\\FrameWork2\\2.Modulos\\Extensiones.vb",
+              "RelativeToolTip": "FrameWork2\\2.Modulos\\Extensiones.vb",
+              "ViewState": "AQIAANoAAAAAAAAAAAAowPgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-20T19:18:07.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Seg_Usuarios.vb",
+              "DocumentMoniker": "R:\\Proyecto .net catalogo\\Backend\\FrameWork2\\1.Gestores\\Seguridad\\Entidades\\Seg_Usuarios.vb",
+              "RelativeDocumentMoniker": "FrameWork2\\1.Gestores\\Seguridad\\Entidades\\Seg_Usuarios.vb",
+              "ToolTip": "R:\\Proyecto .net catalogo\\Backend\\FrameWork2\\1.Gestores\\Seguridad\\Entidades\\Seg_Usuarios.vb",
+              "RelativeToolTip": "FrameWork2\\1.Gestores\\Seguridad\\Entidades\\Seg_Usuarios.vb",
+              "ViewState": "AQIAAIAAAAAAAAAAAAAQwIgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-07T19:06:05.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Business_Test.vb",
+              "DocumentMoniker": "R:\\Proyecto .net catalogo\\Backend\\Business Logic\\2.Business Logic\\Business_Test.vb",
+              "RelativeDocumentMoniker": "Business Logic\\2.Business Logic\\Business_Test.vb",
+              "ToolTip": "R:\\Proyecto .net catalogo\\Backend\\Business Logic\\2.Business Logic\\Business_Test.vb",
+              "RelativeToolTip": "Business Logic\\2.Business Logic\\Business_Test.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-24T15:55:04.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ges_Files.vb",
+              "DocumentMoniker": "R:\\Proyecto .net catalogo\\Backend\\FrameWork2\\1.Gestores\\Ges_Files.vb",
+              "RelativeDocumentMoniker": "FrameWork2\\1.Gestores\\Ges_Files.vb",
+              "ToolTip": "R:\\Proyecto .net catalogo\\Backend\\FrameWork2\\1.Gestores\\Ges_Files.vb",
+              "RelativeToolTip": "FrameWork2\\1.Gestores\\Ges_Files.vb",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAYwFgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-24T15:37:26.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "packages.config",
+              "DocumentMoniker": "R:\\Proyecto .net catalogo\\Backend\\Webapi\\packages.config",
+              "RelativeDocumentMoniker": "Webapi\\packages.config",
+              "ToolTip": "R:\\Proyecto .net catalogo\\Backend\\Webapi\\packages.config",
+              "RelativeToolTip": "Webapi\\packages.config",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-04-11T13:15:57.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Transaction_Test.vb",
+              "DocumentMoniker": "R:\\Proyecto .net catalogo\\Backend\\Business Logic\\1.Transactions\\Transaction_Test.vb",
+              "RelativeDocumentMoniker": "Business Logic\\1.Transactions\\Transaction_Test.vb",
+              "ToolTip": "R:\\Proyecto .net catalogo\\Backend\\Business Logic\\1.Transactions\\Transaction_Test.vb",
+              "RelativeToolTip": "Business Logic\\1.Transactions\\Transaction_Test.vb",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-24T15:52:05.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Console Test.vb",
+              "DocumentMoniker": "R:\\Proyecto .net catalogo\\Backend\\Console Test\\Console test\\Console Test.vb",
+              "RelativeDocumentMoniker": "Console Test\\Console test\\Console Test.vb",
+              "ToolTip": "R:\\Proyecto .net catalogo\\Backend\\Console Test\\Console test\\Console Test.vb",
+              "RelativeToolTip": "Console Test\\Console test\\Console Test.vb",
+              "ViewState": "AQIAADgAAAAAAAAAAAAIwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-24T15:50:29.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FW_BaseGestores.vb",
+              "DocumentMoniker": "R:\\Proyecto .net catalogo\\Backend\\FrameWork2\\3.Clases bases\\FW_BaseGestores.vb",
+              "RelativeDocumentMoniker": "FrameWork2\\3.Clases bases\\FW_BaseGestores.vb",
+              "ToolTip": "R:\\Proyecto .net catalogo\\Backend\\FrameWork2\\3.Clases bases\\FW_BaseGestores.vb",
+              "RelativeToolTip": "FrameWork2\\3.Clases bases\\FW_BaseGestores.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-23T20:43:57.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FW_BaseGestor.vb",
+              "DocumentMoniker": "R:\\Proyecto .net catalogo\\Backend\\FrameWork2\\3.Clases bases\\FW_BaseGestor.vb",
+              "RelativeDocumentMoniker": "FrameWork2\\3.Clases bases\\FW_BaseGestor.vb",
+              "ToolTip": "R:\\Proyecto .net catalogo\\Backend\\FrameWork2\\3.Clases bases\\FW_BaseGestor.vb",
+              "RelativeToolTip": "FrameWork2\\3.Clases bases\\FW_BaseGestor.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-23T20:43:55.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FW_BaseDBContext.vb",
+              "DocumentMoniker": "R:\\Proyecto .net catalogo\\Backend\\FrameWork2\\3.Clases bases\\FW_BaseDBContext.vb",
+              "RelativeDocumentMoniker": "FrameWork2\\3.Clases bases\\FW_BaseDBContext.vb",
+              "ToolTip": "R:\\Proyecto .net catalogo\\Backend\\FrameWork2\\3.Clases bases\\FW_BaseDBContext.vb",
+              "RelativeToolTip": "FrameWork2\\3.Clases bases\\FW_BaseDBContext.vb",
+              "ViewState": "AQIAACgAAAAAAAAAAAAvwBMAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-23T20:43:19.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Ges_Queries.vb",
+              "DocumentMoniker": "R:\\Proyecto .net catalogo\\Backend\\FrameWork2\\1.Gestores\\Ges_Queries.vb",
+              "RelativeDocumentMoniker": "FrameWork2\\1.Gestores\\Ges_Queries.vb",
+              "ToolTip": "R:\\Proyecto .net catalogo\\Backend\\FrameWork2\\1.Gestores\\Ges_Queries.vb",
+              "RelativeToolTip": "FrameWork2\\1.Gestores\\Ges_Queries.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-23T20:41:19.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Business_Login.vb",
+              "DocumentMoniker": "R:\\Proyecto .net catalogo\\Backend\\Business Logic\\2.Business Logic\\Business_Login.vb",
+              "RelativeDocumentMoniker": "Business Logic\\2.Business Logic\\Business_Login.vb",
+              "ToolTip": "R:\\Proyecto .net catalogo\\Backend\\Business Logic\\2.Business Logic\\Business_Login.vb",
+              "RelativeToolTip": "Business Logic\\2.Business Logic\\Business_Login.vb",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-03-27T13:12:02.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FW_BaseBusiness.vb",
+              "DocumentMoniker": "R:\\Proyecto .net catalogo\\Backend\\FrameWork2\\3.Clases bases\\FW_BaseBusiness.vb",
+              "RelativeDocumentMoniker": "FrameWork2\\3.Clases bases\\FW_BaseBusiness.vb",
+              "ToolTip": "R:\\Proyecto .net catalogo\\Backend\\FrameWork2\\3.Clases bases\\FW_BaseBusiness.vb",
+              "RelativeToolTip": "FrameWork2\\3.Clases bases\\FW_BaseBusiness.vb",
+              "ViewState": "AQIAADcAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-24T15:37:46.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Transaction_Login.vb",
+              "DocumentMoniker": "R:\\Proyecto .net catalogo\\Backend\\Business Logic\\1.Transactions\\Transaction_Login.vb",
+              "RelativeDocumentMoniker": "Business Logic\\1.Transactions\\Transaction_Login.vb",
+              "ToolTip": "R:\\Proyecto .net catalogo\\Backend\\Business Logic\\1.Transactions\\Transaction_Login.vb",
+              "RelativeToolTip": "Business Logic\\1.Transactions\\Transaction_Login.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-03-27T13:11:59.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ApplicationConfiguration.vb",
+              "DocumentMoniker": "R:\\Proyecto .net catalogo\\Backend\\FrameWork2\\2.Modulos\\ApplicationConfiguration.vb",
+              "RelativeDocumentMoniker": "FrameWork2\\2.Modulos\\ApplicationConfiguration.vb",
+              "ToolTip": "R:\\Proyecto .net catalogo\\Backend\\FrameWork2\\2.Modulos\\ApplicationConfiguration.vb",
+              "RelativeToolTip": "FrameWork2\\2.Modulos\\ApplicationConfiguration.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-23T20:46:22.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FW_BaseDAO.vb",
+              "DocumentMoniker": "R:\\Proyecto .net catalogo\\Backend\\FrameWork2\\3.Clases bases\\FW_BaseDAO.vb",
+              "RelativeDocumentMoniker": "FrameWork2\\3.Clases bases\\FW_BaseDAO.vb",
+              "ToolTip": "R:\\Proyecto .net catalogo\\Backend\\FrameWork2\\3.Clases bases\\FW_BaseDAO.vb",
+              "RelativeToolTip": "FrameWork2\\3.Clases bases\\FW_BaseDAO.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-23T20:41:05.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ModelValidations.vb",
+              "DocumentMoniker": "R:\\Proyecto .net catalogo\\Backend\\FrameWork2\\2.Modulos\\ModelValidations.vb",
+              "RelativeDocumentMoniker": "FrameWork2\\2.Modulos\\ModelValidations.vb",
+              "ToolTip": "R:\\Proyecto .net catalogo\\Backend\\FrameWork2\\2.Modulos\\ModelValidations.vb",
+              "RelativeToolTip": "FrameWork2\\2.Modulos\\ModelValidations.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-23T20:46:24.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "sql.sql ",
+              "DocumentMoniker": "R:\\Proyecto .net catalogo\\Backend\\Business Logic\\5.Queries\\sql\\sql.sql",
+              "RelativeDocumentMoniker": "Business Logic\\5.Queries\\sql\\sql.sql",
+              "ToolTip": "sql.sql ",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-03-27T13:12:13.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DAO_UsuarioRol.vb",
+              "DocumentMoniker": "R:\\Proyecto .net catalogo\\Backend\\FrameWork2\\4.DAO\\DAO_UsuarioRol.vb",
+              "RelativeDocumentMoniker": "FrameWork2\\4.DAO\\DAO_UsuarioRol.vb",
+              "ToolTip": "R:\\Proyecto .net catalogo\\Backend\\FrameWork2\\4.DAO\\DAO_UsuarioRol.vb",
+              "RelativeToolTip": "FrameWork2\\4.DAO\\DAO_UsuarioRol.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-23T20:42:51.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "BL_BaseDAO.vb",
+              "DocumentMoniker": "R:\\Proyecto .net catalogo\\Backend\\Business Logic\\A.Clases Bases\\Framework\\BL_BaseDAO.vb",
+              "RelativeDocumentMoniker": "Business Logic\\A.Clases Bases\\Framework\\BL_BaseDAO.vb",
+              "ToolTip": "R:\\Proyecto .net catalogo\\Backend\\Business Logic\\A.Clases Bases\\Framework\\BL_BaseDAO.vb",
+              "RelativeToolTip": "Business Logic\\A.Clases Bases\\Framework\\BL_BaseDAO.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-03-27T13:12:26.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "BL_BaseDBContext.vb",
+              "DocumentMoniker": "R:\\Proyecto .net catalogo\\Backend\\Business Logic\\A.Clases Bases\\Framework\\BL_BaseDBContext.vb",
+              "RelativeDocumentMoniker": "Business Logic\\A.Clases Bases\\Framework\\BL_BaseDBContext.vb",
+              "ToolTip": "R:\\Proyecto .net catalogo\\Backend\\Business Logic\\A.Clases Bases\\Framework\\BL_BaseDBContext.vb",
+              "RelativeToolTip": "Business Logic\\A.Clases Bases\\Framework\\BL_BaseDBContext.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-03-27T13:12:27.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "BL_BaseDTORequestResponse.vb",
+              "DocumentMoniker": "R:\\Proyecto .net catalogo\\Backend\\Business Logic\\A.Clases Bases\\Framework\\BL_BaseDTORequestResponse.vb",
+              "RelativeDocumentMoniker": "Business Logic\\A.Clases Bases\\Framework\\BL_BaseDTORequestResponse.vb",
+              "ToolTip": "R:\\Proyecto .net catalogo\\Backend\\Business Logic\\A.Clases Bases\\Framework\\BL_BaseDTORequestResponse.vb",
+              "RelativeToolTip": "Business Logic\\A.Clases Bases\\Framework\\BL_BaseDTORequestResponse.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-03-27T13:12:29.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "BL_BaseGestor.vb",
+              "DocumentMoniker": "R:\\Proyecto .net catalogo\\Backend\\Business Logic\\A.Clases Bases\\Framework\\BL_BaseGestor.vb",
+              "RelativeDocumentMoniker": "Business Logic\\A.Clases Bases\\Framework\\BL_BaseGestor.vb",
+              "ToolTip": "R:\\Proyecto .net catalogo\\Backend\\Business Logic\\A.Clases Bases\\Framework\\BL_BaseGestor.vb",
+              "RelativeToolTip": "Business Logic\\A.Clases Bases\\Framework\\BL_BaseGestor.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-03-27T13:12:30.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "BL_BaseGestores.vb",
+              "DocumentMoniker": "R:\\Proyecto .net catalogo\\Backend\\Business Logic\\A.Clases Bases\\Framework\\BL_BaseGestores.vb",
+              "RelativeDocumentMoniker": "Business Logic\\A.Clases Bases\\Framework\\BL_BaseGestores.vb",
+              "ToolTip": "R:\\Proyecto .net catalogo\\Backend\\Business Logic\\A.Clases Bases\\Framework\\BL_BaseGestores.vb",
+              "RelativeToolTip": "Business Logic\\A.Clases Bases\\Framework\\BL_BaseGestores.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-03-27T13:12:32.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "BL_BaseTransaction.vb",
+              "DocumentMoniker": "R:\\Proyecto .net catalogo\\Backend\\Business Logic\\A.Clases Bases\\Framework\\BL_BaseTransaction.vb",
+              "RelativeDocumentMoniker": "Business Logic\\A.Clases Bases\\Framework\\BL_BaseTransaction.vb",
+              "ToolTip": "R:\\Proyecto .net catalogo\\Backend\\Business Logic\\A.Clases Bases\\Framework\\BL_BaseTransaction.vb",
+              "RelativeToolTip": "Business Logic\\A.Clases Bases\\Framework\\BL_BaseTransaction.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-03-27T13:12:34.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "BL_Extensiones.vb",
+              "DocumentMoniker": "R:\\Proyecto .net catalogo\\Backend\\Business Logic\\A.Clases Bases\\Framework\\BL_Extensiones.vb",
+              "RelativeDocumentMoniker": "Business Logic\\A.Clases Bases\\Framework\\BL_Extensiones.vb",
+              "ToolTip": "R:\\Proyecto .net catalogo\\Backend\\Business Logic\\A.Clases Bases\\Framework\\BL_Extensiones.vb",
+              "RelativeToolTip": "Business Logic\\A.Clases Bases\\Framework\\BL_Extensiones.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-03-27T13:12:35.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "BL_BaseBusiness.vb",
+              "DocumentMoniker": "R:\\Proyecto .net catalogo\\Backend\\Business Logic\\A.Clases Bases\\Framework\\BL_BaseBusiness.vb",
+              "RelativeDocumentMoniker": "Business Logic\\A.Clases Bases\\Framework\\BL_BaseBusiness.vb",
+              "ToolTip": "R:\\Proyecto .net catalogo\\Backend\\Business Logic\\A.Clases Bases\\Framework\\BL_BaseBusiness.vb",
+              "RelativeToolTip": "Business Logic\\A.Clases Bases\\Framework\\BL_BaseBusiness.vb",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-03-27T13:12:24.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "BL_Utilities.vb",
+              "DocumentMoniker": "R:\\Proyecto .net catalogo\\Backend\\Business Logic\\A.Clases Bases\\Framework\\BL_Utilities.vb",
+              "RelativeDocumentMoniker": "Business Logic\\A.Clases Bases\\Framework\\BL_Utilities.vb",
+              "ToolTip": "R:\\Proyecto .net catalogo\\Backend\\Business Logic\\A.Clases Bases\\Framework\\BL_Utilities.vb",
+              "RelativeToolTip": "Business Logic\\A.Clases Bases\\Framework\\BL_Utilities.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-03-27T13:12:35.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Mod_Configurations.vb",
+              "DocumentMoniker": "R:\\Proyecto .net catalogo\\Backend\\Business Logic\\B.Configuration\\Mod_Configurations.vb",
+              "RelativeDocumentMoniker": "Business Logic\\B.Configuration\\Mod_Configurations.vb",
+              "ToolTip": "R:\\Proyecto .net catalogo\\Backend\\Business Logic\\B.Configuration\\Mod_Configurations.vb",
+              "RelativeToolTip": "Business Logic\\B.Configuration\\Mod_Configurations.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-03-27T13:12:46.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "TestController.vb",
+              "DocumentMoniker": "R:\\Proyecto .net catalogo\\Backend\\Webapi\\Controllers\\TestController.vb",
+              "RelativeDocumentMoniker": "Webapi\\Controllers\\TestController.vb",
+              "ToolTip": "R:\\Proyecto .net catalogo\\Backend\\Webapi\\Controllers\\TestController.vb",
+              "RelativeToolTip": "Webapi\\Controllers\\TestController.vb",
+              "ViewState": "AQIAACIAAAAAAAAAAAAgwDEAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-03-27T13:11:27.603Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 970,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a0c5197d-0ac7-4b63-97cd-8872a789d233}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

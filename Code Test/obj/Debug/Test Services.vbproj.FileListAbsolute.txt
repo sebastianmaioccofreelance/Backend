@@ -1,0 +1,66 @@
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Code Test\bin\Debug\5.Queries\Queries.enc
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Code Test\bin\Debug\Code Test.exe.config
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Code Test\bin\Debug\Code Test.exe
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Code Test\bin\Debug\Code Test.pdb
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Code Test\bin\Debug\BusinessLogic.dll
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Code Test\bin\Debug\EntityFramework.dll
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Code Test\bin\Debug\EntityFramework.SqlServer.dll
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Code Test\bin\Debug\FrameWork.dll
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Code Test\bin\Debug\Newtonsoft.Json.dll
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Code Test\bin\Debug\System.Web.Http.dll
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Code Test\bin\Debug\System.Net.Http.Formatting.dll
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Code Test\bin\Debug\BusinessLogic.pdb
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Code Test\bin\Debug\BusinessLogic.xml
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Code Test\bin\Debug\BusinessLogic.dll.config
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Code Test\bin\Debug\FrameWork.pdb
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Code Test\bin\Debug\FrameWork.dll.config
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Code Test\bin\Debug\EntityFramework.xml
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Code Test\bin\Debug\EntityFramework.SqlServer.xml
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Code Test\bin\Debug\Newtonsoft.Json.xml
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Code Test\bin\Debug\System.Web.Http.xml
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Code Test\bin\Debug\System.Net.Http.Formatting.xml
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Code Test\bin\Debug\es\System.Web.Http.resources.dll
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Code Test\bin\Debug\es\System.Net.Http.Formatting.resources.dll
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Code Test\obj\Debug\Test Services.vbprojAssemblyReference.cache
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Code Test\obj\Debug\Test Services.vbproj.ResolveComReference.cache
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Code Test\obj\Debug\Test_Services.Frm_JsonViewer.resources
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Code Test\obj\Debug\Test_Services.Frm_VisorTablas.resources
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Code Test\obj\Debug\Test_Services.Frm_Test.resources
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Code Test\obj\Debug\Test Services.vbproj.GenerateResource.cache
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Code Test\obj\Debug\Test Services.vbproj.CoreCompileInputs.cache
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Code Test\obj\Debug\Test Services.vbproj.CopyComplete
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Code Test\obj\Debug\Code Test.exe
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Code Test\obj\Debug\Code Test.pdb
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Code Test\bin\Debug\5.Queries\Queries.enc
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Code Test\bin\Debug\Code Test.exe.config
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Code Test\bin\Debug\Code Test.exe
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Code Test\bin\Debug\Code Test.pdb
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Code Test\bin\Debug\BusinessLogic.dll
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Code Test\bin\Debug\EntityFramework.dll
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Code Test\bin\Debug\EntityFramework.SqlServer.dll
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Code Test\bin\Debug\FrameWork.dll
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Code Test\bin\Debug\Newtonsoft.Json.dll
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Code Test\bin\Debug\System.Web.Http.dll
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Code Test\bin\Debug\System.Net.Http.Formatting.dll
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Code Test\bin\Debug\BusinessLogic.pdb
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Code Test\bin\Debug\BusinessLogic.xml
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Code Test\bin\Debug\BusinessLogic.dll.config
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Code Test\bin\Debug\FrameWork.pdb
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Code Test\bin\Debug\FrameWork.dll.config
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Code Test\bin\Debug\EntityFramework.xml
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Code Test\bin\Debug\EntityFramework.SqlServer.xml
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Code Test\bin\Debug\Newtonsoft.Json.xml
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Code Test\bin\Debug\System.Web.Http.xml
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Code Test\bin\Debug\System.Net.Http.Formatting.xml
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Code Test\bin\Debug\es\System.Web.Http.resources.dll
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Code Test\bin\Debug\es\System.Net.Http.Formatting.resources.dll
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Code Test\obj\Debug\Test Services.vbproj.AssemblyReference.cache
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Code Test\obj\Debug\Test Services.vbproj.ResolveComReference.cache
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Code Test\obj\Debug\Test_Services.Frm_JsonViewer.resources
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Code Test\obj\Debug\Test_Services.Frm_VisorTablas.resources
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Code Test\obj\Debug\Test Services.vbproj.GenerateResource.cache
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Code Test\obj\Debug\Test Services.vbproj.CoreCompileInputs.cache
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Code Test\obj\Debug\Code Test.exe
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Code Test\obj\Debug\Code Test.pdb
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Code Test\obj\Debug\Test_Services.Frm_SQLToJSon.resources
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Code Test\obj\Debug\Test Ser.6BDA7B9D.Up2Date

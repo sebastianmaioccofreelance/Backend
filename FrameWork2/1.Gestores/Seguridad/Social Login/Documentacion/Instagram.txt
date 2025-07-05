@@ -1,0 +1,32 @@
+﻿**************************************************************** Instagram ****************************************************************
+
+Cuenta: Corresponde a la cuenta de facebook 
+
+admin
+
+https://developers.facebook.com/docs/instagram-basic-display-api/getting-started
+
+Guia paso a paso
+
+https://developers.facebook.com/docs/instagram-basic-display-api/guides/getting-access-tokens-and-permissions?locale=es_LA
+
+video tutorial 
+
+https://www.youtube.com/watch?v=iN9Y7twSz7M&t=335s
+https://www.youtube.com/watch?v=rWUcb8jXgVA
+https://www.youtube.com/watch?v=X2ndbJAnQKM
+
+GET AUHTORIZATION CODE
+
+https://www.instagram.com/oauth/authorize
+
+GET ACCESS_TOKEN
+
+https://api.instagram.com/oauth/access_token
+
+GET USER INFORMATION
+
+https://graph.instagram.com/me
+
+
+

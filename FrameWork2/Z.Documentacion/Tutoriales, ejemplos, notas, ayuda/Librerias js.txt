@@ -1,0 +1,10 @@
+﻿
+
+librerias js:
+	charts.js
+	moment.js
+	jquery
+	bootstrap
+	grilla
+	dropzone
+

@@ -1,0 +1,3 @@
+﻿**************************************************************** Pinterest  ****************************************************************
+
+https://stackoverflow.com/questions/21455388/how-to-get-oauth-access-token-for-pinterest

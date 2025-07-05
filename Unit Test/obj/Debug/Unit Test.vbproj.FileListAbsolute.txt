@@ -1,0 +1,84 @@
+P:\Web\Proyectos\FrameWork2\Unit Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+P:\Web\Proyectos\FrameWork2\Unit Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+P:\Web\Proyectos\FrameWork2\Unit Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+P:\Web\Proyectos\FrameWork2\Unit Test\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+P:\Web\Proyectos\FrameWork2\Unit Test\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+P:\Web\Proyectos\FrameWork2\Unit Test\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+P:\Web\Proyectos\FrameWork2\Unit Test\bin\Debug\Unit Test.dll
+P:\Web\Proyectos\FrameWork2\Unit Test\bin\Debug\Unit Test.pdb
+P:\Web\Proyectos\FrameWork2\Unit Test\bin\Debug\Unit Test.xml
+P:\Web\Proyectos\FrameWork2\Unit Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+P:\Web\Proyectos\FrameWork2\Unit Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+P:\Web\Proyectos\FrameWork2\Unit Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+P:\Web\Proyectos\FrameWork2\Unit Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+P:\Web\Proyectos\FrameWork2\Unit Test\obj\Debug\Unit Test.vbprojAssemblyReference.cache
+P:\Web\Proyectos\FrameWork2\Unit Test\obj\Debug\Unit_Test.Resources.resources
+P:\Web\Proyectos\FrameWork2\Unit Test\obj\Debug\Unit Test.vbproj.GenerateResource.cache
+P:\Web\Proyectos\FrameWork2\Unit Test\obj\Debug\Unit Test.vbproj.CoreCompileInputs.cache
+P:\Web\Proyectos\FrameWork2\Unit Test\obj\Debug\Unit Test.vbproj.CopyComplete
+P:\Web\Proyectos\FrameWork2\Unit Test\obj\Debug\Unit Test.dll
+P:\Web\Proyectos\FrameWork2\Unit Test\obj\Debug\Unit Test.xml
+P:\Web\Proyectos\FrameWork2\Unit Test\obj\Debug\Unit Test.pdb
+P:\Web\Proyectos\FrameWork\Unit Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+P:\Web\Proyectos\FrameWork\Unit Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+P:\Web\Proyectos\FrameWork\Unit Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+P:\Web\Proyectos\FrameWork\Unit Test\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+P:\Web\Proyectos\FrameWork\Unit Test\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+P:\Web\Proyectos\FrameWork\Unit Test\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+P:\Web\Proyectos\FrameWork\Unit Test\bin\Debug\Unit Test.dll
+P:\Web\Proyectos\FrameWork\Unit Test\bin\Debug\Unit Test.pdb
+P:\Web\Proyectos\FrameWork\Unit Test\bin\Debug\Unit Test.xml
+P:\Web\Proyectos\FrameWork\Unit Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+P:\Web\Proyectos\FrameWork\Unit Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+P:\Web\Proyectos\FrameWork\Unit Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+P:\Web\Proyectos\FrameWork\Unit Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+P:\Web\Proyectos\FrameWork\Unit Test\obj\Debug\Unit Test.vbprojAssemblyReference.cache
+P:\Web\Proyectos\FrameWork\Unit Test\obj\Debug\Unit_Test.Resources.resources
+P:\Web\Proyectos\FrameWork\Unit Test\obj\Debug\Unit Test.vbproj.GenerateResource.cache
+P:\Web\Proyectos\FrameWork\Unit Test\obj\Debug\Unit Test.vbproj.CoreCompileInputs.cache
+P:\Web\Proyectos\FrameWork\Unit Test\obj\Debug\Unit Test.vbproj.CopyComplete
+P:\Web\Proyectos\FrameWork\Unit Test\obj\Debug\Unit Test.dll
+P:\Web\Proyectos\FrameWork\Unit Test\obj\Debug\Unit Test.xml
+P:\Web\Proyectos\FrameWork\Unit Test\obj\Debug\Unit Test.pdb
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Unit Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Unit Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Unit Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Unit Test\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Unit Test\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Unit Test\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Unit Test\bin\Debug\Unit Test.dll
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Unit Test\bin\Debug\Unit Test.pdb
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Unit Test\bin\Debug\Unit Test.xml
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Unit Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Unit Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Unit Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Unit Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Unit Test\obj\Debug\Unit Test.vbprojAssemblyReference.cache
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Unit Test\obj\Debug\Unit_Test.Resources.resources
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Unit Test\obj\Debug\Unit Test.vbproj.GenerateResource.cache
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Unit Test\obj\Debug\Unit Test.vbproj.CoreCompileInputs.cache
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Unit Test\obj\Debug\Unit Test.vbproj.CopyComplete
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Unit Test\obj\Debug\Unit Test.dll
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Unit Test\obj\Debug\Unit Test.xml
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Unit Test\obj\Debug\Unit Test.pdb
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Unit Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Unit Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Unit Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Unit Test\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Unit Test\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Unit Test\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Unit Test\bin\Debug\Unit Test.dll
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Unit Test\bin\Debug\Unit Test.pdb
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Unit Test\bin\Debug\Unit Test.xml
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Unit Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Unit Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Unit Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Unit Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Unit Test\obj\Debug\Unit Test.vbproj.AssemblyReference.cache
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Unit Test\obj\Debug\Unit_Test.Resources.resources
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Unit Test\obj\Debug\Unit Test.vbproj.GenerateResource.cache
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Unit Test\obj\Debug\Unit Test.vbproj.CoreCompileInputs.cache
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Unit Test\obj\Debug\Unit Test.vbproj.CopyComplete
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Unit Test\obj\Debug\Unit Test.dll
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Unit Test\obj\Debug\Unit Test.xml
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Unit Test\obj\Debug\Unit Test.pdb

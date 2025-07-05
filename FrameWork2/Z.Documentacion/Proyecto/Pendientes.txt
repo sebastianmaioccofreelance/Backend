@@ -1,0 +1,12 @@
+﻿1) gestor de diccionario
+2) Hacer limpieza del proyecto
+3) migrar todo a una nueva solucion 
+
+
+
+
+
+
+
+
+

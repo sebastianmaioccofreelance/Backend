@@ -1,0 +1,8 @@
+﻿            #preejecutarcomando #comprimirsql 
+
+            https://blog.koalite.com/2013/05/automatizar-la-compilacion-con-msbuild/
+            https://docs.microsoft.com/es-es/visualstudio/msbuild/customize-your-build?view=vs-2019
+            https://docs.microsoft.com/es-es/visualstudio/ide/how-to-specify-build-events-csharp?view=vs-2019
+            https://programmerclick.com/article/26151711880/
+
+            explorador de soluciones -> Elegir el proyecto -> Propiedades-> Compilar -> boton (eventos de compilacion)

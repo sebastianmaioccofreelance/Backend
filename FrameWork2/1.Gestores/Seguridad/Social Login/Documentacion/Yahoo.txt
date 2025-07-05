@@ -1,0 +1,34 @@
+﻿**************************************************************** Yahoo  ****************************************************************
+
+
+Cuenta: naiosoft.compania@gmail.com
+
+admin
+https://developer.yahoo.com/apps/XIKdCo49/
+
+video
+https://www.youtube.com/watch?v=Lyzs2kTm810
+
+ayuda
+https://developer.yahoo.com/oauth2/guide/flows_authcode/
+
+https://developer.yahoo.com/oauth2/guide/get-user-inf/Get-User-Info-API.html
+
+
+
+urls
+
+URLGetAuthorizationCode	URLGetAccessToken	URLGetInformation
+
+Authorization code
+
+https://api.login.yahoo.com/oauth2/request_auth?response_type=code
+
+access token
+
+https://api.login.yahoo.com/oauth2/get_token
+
+get user info
+
+https://api.login.yahoo.com/openid/v1/userinfo
+

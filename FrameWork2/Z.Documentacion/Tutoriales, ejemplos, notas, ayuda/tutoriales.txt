@@ -1,0 +1,18 @@
+﻿
+exportacion a pdf:
+	https://www.c-sharpcorner.com/UploadFile/698727/convert-word-file-to-pdf-using-C-Sharp/
+
+maquetacion (youtube):
+	https://www.youtube.com/watch?v=ShhHed7OMgk
+
+maquetacion (educacion it)
+	https://coda.io/d/Maquetado-Junio-2020_dHGpkn9qs9M/after-before_suyck#_luvkf
+
+inspiracion de maquetas web:
+
+https://www.youtube.com/watch?v=2Go31JcnoRs
+https://www.canva.com/templates/?query=pinturac 
+
+mejorar la velocidad de depuracion porque es lenta: 
+
+https://www.dokry.com/9039

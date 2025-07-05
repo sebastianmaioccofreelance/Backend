@@ -1,0 +1,32 @@
+﻿**************************************************************** Facebook  ****************************************************************
+
+cuenta de facebook: a traves de naiosoft.compania@gmail.com
+
+admin
+
+https://developers.facebook.com/apps/1296734753992794/fb-login/settings/
+
+
+video ayuda
+
+    : https://www.youtube.com/watch?v=MpLCBEdhg3Y
+
+
+GET AUHTORIZATION CODE
+
+https://www.facebook.com/v8.0/dialog/oauth?display=popup&scope=email
+
+GET ACCESS_TOKEN
+
+https://graph.facebook.com/v8.0/oauth/access_token
+
+GET USER INFORMATION
+
+https://graph.facebook.com/me/?fields=id,email,name,picture
+
+
+
+
+
+
+

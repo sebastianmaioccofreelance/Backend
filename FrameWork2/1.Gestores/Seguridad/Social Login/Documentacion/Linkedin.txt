@@ -1,0 +1,30 @@
+﻿
+
+cuenta: 
+
+naiosoft@hotmail.com - naiosoft.compania
+
+**************************************************************** Linkedin  ****************************************************************
+
+cuenta:
+
+VIDEO: https://www.youtube.com/watch?v=jYflkIo1R4A&t=1074s
+
+ADMIN: linkedin.com/developers/apps
+
+tutorial: https://docs.microsoft.com/en-us/linkedin/shared/references/v2/profile/profile-picture
+
+
+
+Obtener codigo de autorizacion:
+
+https://www.linkedin.com/oauth/v2/authorization?response_type=code&scope=r_liteprofile
+
+
+GET ACCESS TOKEN
+
+https://www.linkedin.com/oauth/v2/accessToken
+
+GET USER INFO
+
+https://api.linkedin.com/v2/me?projection=(id,firstName,lastName,localizedLastName,localizedFirstName,profilePicture(displayImage~:playableStreams))

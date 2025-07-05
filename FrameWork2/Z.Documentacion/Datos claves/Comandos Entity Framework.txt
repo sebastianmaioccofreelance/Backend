@@ -1,0 +1,3 @@
+﻿            ' comando para actualizar Base de datos y Entitiy Framework
+            ' Enable-Migrations -ContextTypeName FrameWork.Bases.FW_BaseDBContext -force
+

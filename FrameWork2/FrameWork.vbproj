@@ -1,0 +1,254 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\EntityFramework.6.4.4\build\EntityFramework.props" Condition="Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.props')" />
+  <Import Project="..\packages\EntityFramework.6.4.0\build\EntityFramework.props" Condition="Exists('..\packages\EntityFramework.6.4.0\build\EntityFramework.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{8A96CFB8-5FCE-4159-9117-F55F7FBD6BFC}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <RootNamespace>FrameWork</RootNamespace>
+    <AssemblyName>FrameWork</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>Empty</MyType>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>
+    </DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>
+    </DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <PlatformTarget>x64</PlatformTarget>
+    <OutputPath>bin\x64\Debug\</OutputPath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <PlatformTarget>x64</PlatformTarget>
+    <OutputPath>bin\x64\Release\</OutputPath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <Optimize>true</Optimize>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="1.Gestores\Seguridad\Social Login\Documentacion\Social login.xlsx" />
+    <None Include="App.config" />
+    <None Include="packages.config" />
+    <None Include="Z.Documentacion\Proyecto\Arquitectura %282%29.pptx" />
+    <None Include="Z.Documentacion\Proyecto\Arquitectura.pptx" />
+    <None Include="1.Gestores\Seguridad\Social Login\Documentacion\Datos social login.xlsx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="My Project\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="1.Gestores\Ges_Excel.vb" />
+    <Compile Include="1.Gestores\Ges_PushNotification.vb" />
+    <Compile Include="1.Gestores\Ges_UserCache.vb" />
+    <Compile Include="1.Gestores\Ges_Idiomas.vb" />
+    <Compile Include="1.Gestores\Get_Mails.vb" />
+    <Compile Include="1.Gestores\Seguridad\Entidades\Seg_GruposDeUsuarios.vb" />
+    <Compile Include="1.Gestores\Seguridad\Entidades\Seg_Permisos.vb" />
+    <Compile Include="1.Gestores\Seguridad\Relaciones\Seg_GruposDeUsuariosUsuarios.vb" />
+    <Compile Include="1.Gestores\Seguridad\Relaciones\Seg_PermisosGruposDeUsuarios.vb" />
+    <Compile Include="1.Gestores\Seguridad\Relaciones\Seg_RolesGruposDeUsuarios.vb" />
+    <Compile Include="1.Gestores\Seguridad\Relaciones\Seg_RolesPermisos.vb" />
+    <Compile Include="1.Gestores\Seguridad\Relaciones\Seg_UsuariosPermisos.vb" />
+    <Compile Include="1.Gestores\Seguridad\Relaciones\Seg_UsuariosRoles.vb" />
+    <Compile Include="1.Gestores\Seguridad\Social Login\IRedSocial.vb" />
+    <Compile Include="1.Gestores\Seguridad\Social Login\RedSocial_Microsoft.vb" />
+    <Compile Include="1.Gestores\Seguridad\Social Login\RedSocial_Facebook.vb" />
+    <Compile Include="1.Gestores\Seguridad\Social Login\RedSocial_Yahoo.vb" />
+    <Compile Include="1.Gestores\Seguridad\Social Login\RedSocial_Google.vb" />
+    <Compile Include="1.Gestores\Seguridad\Social Login\RedSocial_Linkedin.vb" />
+    <Compile Include="1.Gestores\Seguridad\Social Login\RedSocial_Twitter.vb" />
+    <Compile Include="1.Gestores\Seguridad\Social Login\RedSocial_Instagram.vb" />
+    <Compile Include="1.Gestores\Seguridad\Social Login\Ges_RedSocial.vb" />
+    <Compile Include="2.Modulos\ApplicationConfiguration.vb" />
+    <Compile Include="3.Clases bases\FW_ResponseService.vb" />
+    <Compile Include="3.Clases bases\FW_BaseTransaction.vb" />
+    <Compile Include="3.Clases bases\FW_BaseBusiness.vb" />
+    <Compile Include="3.Clases bases\FW_BaseGestores.vb" />
+    <Compile Include="3.Clases bases\FW_BaseGestor.vb" />
+    <Compile Include="3.Clases bases\FW_BaseDBContext.vb" />
+    <Compile Include="3.Clases bases\FW_BaseRequestDTO.vb" />
+    <Compile Include="3.Clases bases\FW_BaseDAO.vb" />
+    <Compile Include="3.Clases bases\FW_BaseResponseDTO.vb" />
+    <Compile Include="4.DAO\DAO_Idioma.vb" />
+    <Compile Include="4.DAO\DAO_UsuarioCache.vb" />
+    <Compile Include="4.DAO\DAO_PermisoGrupoDeUsuarios.vb" />
+    <Compile Include="4.DAO\DAO_GrupoDeUsuarios.vb" />
+    <Compile Include="4.DAO\DAO_RolGrupoDeUsuarios.vb" />
+    <Compile Include="4.DAO\DAO_UsuarioGrupoDeUsuarios.vb" />
+    <Compile Include="4.DAO\DAO_UsuarioPreferencias.vb" />
+    <Compile Include="1.Gestores\Ges_ApplicationConfiguration.vb" />
+    <Compile Include="4.DAO\DAO_Configuration.vb" />
+    <Compile Include="4.DAO\DAO_RolPermiso.vb" />
+    <Compile Include="4.DAO\DAO_Permiso.vb" />
+    <Compile Include="4.DAO\DAO_ProveedorSocialLogin.vb" />
+    <Compile Include="4.DAO\DAO_UsuarioRol.vb" />
+    <Compile Include="4.DAO\DAO_SocialLogin.vb" />
+    <Compile Include="4.DAO\DAO_Trace.vb" />
+    <Compile Include="4.DAO\DAO_Usuario.vb" />
+    <Compile Include="4.DAO\DAO_Rol.vb" />
+    <Compile Include="4.DAO\DAO_UsuarioPermiso.vb" />
+    <Compile Include="4.DAO\DAO_SesionUsuario.vb" />
+    <Compile Include="2.Modulos\ModelValidations.vb" />
+    <Compile Include="1.Gestores\Ges_Trace.vb" />
+    <Compile Include="1.Gestores\Ges_WebServices.vb" />
+    <Compile Include="1.Gestores\Ges_Queries.vb" />
+    <Compile Include="1.Gestores\Seguridad\Entidades\Seg_SocialLogin.vb" />
+    <Compile Include="1.Gestores\Seguridad\Entidades\Seg_Sesiones.vb" />
+    <Compile Include="1.Gestores\Seguridad\Entidades\Seg_Roles.vb" />
+    <Compile Include="1.Gestores\Seguridad\Entidades\Seg_Usuarios.vb" />
+    <Compile Include="1.Gestores\Ges_Files.vb" />
+    <Compile Include="2.Modulos\Extensiones.vb" />
+    <Compile Include="1.Gestores\Ges_Utilities.vb" />
+    <Compile Include="1.Gestores\Ges_PreferenciasUsuario.vb" />
+    <Compile Include="Migrations\Configuration.vb" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.4.4\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.4.4\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=12.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.12.0.3\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Net.Http.Formatting, Version=5.2.7.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNet.WebApi.Client.5.2.7\lib\net45\System.Net.Http.Formatting.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Http, Version=5.2.7.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNet.WebApi.Core.5.2.7\lib\net45\System.Web.Http.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>8</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Interop.Excel">
+      <Guid>{00020813-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>9</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="1.Gestores\Seguridad\Social Login\Documentacion\Yahoo.txt" />
+    <Content Include="1.Gestores\Seguridad\Social Login\Documentacion\TikTok.txt" />
+    <Content Include="1.Gestores\Seguridad\Social Login\Documentacion\Microsoft.txt" />
+    <Content Include="1.Gestores\Seguridad\Social Login\Documentacion\pinterest.txt" />
+    <Content Include="1.Gestores\Seguridad\Social Login\Documentacion\Linkedin.txt" />
+    <Content Include="1.Gestores\Seguridad\Social Login\Documentacion\Facebook - Configurar.PNG" />
+    <Content Include="1.Gestores\Seguridad\Social Login\Documentacion\Facebook.txt" />
+    <Content Include="1.Gestores\Seguridad\Social Login\Documentacion\Amazon.txt" />
+    <Content Include="1.Gestores\Seguridad\Social Login\Documentacion\Instagram.txt" />
+    <Content Include="1.Gestores\Seguridad\Social Login\Documentacion\Twitter.txt" />
+    <Content Include="Z.Documentacion\Proyecto\Pendientes.txt" />
+    <Content Include="Z.Documentacion\Datos claves\Datos de cuentas.txt" />
+    <Content Include="Z.Documentacion\Datos claves\Comandos Entity Framework.txt" />
+    <Content Include="1.Gestores\Seguridad\Social Login\Documentacion\Gmail.txt" />
+    <Content Include="Z.Documentacion\Tutoriales, ejemplos, notas, ayuda\Eventos de compilacion.txt" />
+    <Content Include="Z.Documentacion\Tutoriales, ejemplos, notas, ayuda\Todos los tipos de descargas.txt" />
+    <Content Include="Z.Documentacion\Tutoriales, ejemplos, notas, ayuda\Librerias js.txt" />
+    <Content Include="Z.Documentacion\Tutoriales, ejemplos, notas, ayuda\tutoriales.txt" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>Este proyecto hace referencia a los paquetes NuGet que faltan en este equipo. Use la restauración de paquetes NuGet para descargarlos. Para obtener más información, consulte http://go.microsoft.com/fwlink/?LinkID=322105. El archivo que falta es {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\EntityFramework.6.4.0\build\EntityFramework.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\EntityFramework.6.4.0\build\EntityFramework.props'))" />
+    <Error Condition="!Exists('..\packages\EntityFramework.6.4.0\build\EntityFramework.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\EntityFramework.6.4.0\build\EntityFramework.targets'))" />
+    <Error Condition="!Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\EntityFramework.6.4.4\build\EntityFramework.props'))" />
+    <Error Condition="!Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\EntityFramework.6.4.4\build\EntityFramework.targets'))" />
+  </Target>
+  <Import Project="..\packages\EntityFramework.6.4.0\build\EntityFramework.targets" Condition="Exists('..\packages\EntityFramework.6.4.0\build\EntityFramework.targets')" />
+  <Import Project="..\packages\EntityFramework.6.4.4\build\EntityFramework.targets" Condition="Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.targets')" />
+</Project>

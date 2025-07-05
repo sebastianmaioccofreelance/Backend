@@ -1,0 +1,34 @@
+﻿**************************************************************** Gmail  ****************************************************************
+cuenta: naiosoft.compania@gmail.com - framework test
+
+Administracion:
+
+https://console.developers.google.com/apis/credentials/oauthclient/893056821156-iv29eilco5kqsvh00j9ntms9cb1cge9n.apps.googleusercontent.com?project=framework-292321
+https://console.cloud.google.com/apis/credentials?folder=&organizationId=&project=gmail-1604186200156
+
+TUTORIALES:
+
+https://developers.google.com/gmail/api/quickstart/dotnet
+
+https://developers.google.com/gmail/api/reference/rest
+
+https://www.youtube.com/watch?v=tGDn3V-mIOM
+
+https://www.youtube.com/watch?v=M0hBU5Wsye8
+
+Obtener codigo de autorizacion:
+
+https://accounts.google.com/o/oauth2/v2/auth?
+
+
+GET ACCESS TOKEN
+
+https://oauth2.googleapis.com/token
+
+GET USER INFO
+
+https://www.googleapis.com/oauth2/v2/userinfo
+
+ 
+
+ 

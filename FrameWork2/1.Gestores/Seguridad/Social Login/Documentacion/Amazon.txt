@@ -1,0 +1,21 @@
+﻿**************************************************************** Amazon  ****************************************************************
+
+admin
+
+https://developers.facebook.com/docs/instagram-basic-display-api/guides/getting-access-tokens-and-permissions?locale=es_LA
+
+video tutorial 
+
+https://www.youtube.com/watch?v=CtTP7JN3oRk
+https://www.youtube.com/watch?v=r1P_glQGvfo&t=1152s
+
+
+endpoints userinfo
+
+https://docs.aws.amazon.com/cognito/latest/developerguide/userinfo-endpoint.html
+
+doc
+
+https://developer.amazon.com/es-mx/docs/login-with-amazon/web-docs.html
+https://openid.net/specs/openid-connect-core-1_0.html#ImplicitAuthorizationEndpoint
+

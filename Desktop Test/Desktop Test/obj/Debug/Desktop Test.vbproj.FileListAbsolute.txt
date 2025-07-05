@@ -1,0 +1,72 @@
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Desktop Test\Desktop Test\bin\Debug\5.Queries\Queries.enc
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Desktop Test\Desktop Test\bin\Debug\Forms\Ejemplos\JSON\Ejemplo.json
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Desktop Test\Desktop Test\bin\Debug\Desktop Test.exe.config
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Desktop Test\Desktop Test\bin\Debug\Desktop Test.exe
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Desktop Test\Desktop Test\bin\Debug\Desktop Test.pdb
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Desktop Test\Desktop Test\bin\Debug\BusinessLogic.dll
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Desktop Test\Desktop Test\bin\Debug\Code Test.exe
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Desktop Test\Desktop Test\bin\Debug\EntityFramework.dll
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Desktop Test\Desktop Test\bin\Debug\EntityFramework.SqlServer.dll
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Desktop Test\Desktop Test\bin\Debug\FrameWork.dll
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Desktop Test\Desktop Test\bin\Debug\Newtonsoft.Json.dll
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Desktop Test\Desktop Test\bin\Debug\System.Web.Http.dll
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Desktop Test\Desktop Test\bin\Debug\System.Net.Http.Formatting.dll
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Desktop Test\Desktop Test\bin\Debug\BusinessLogic.pdb
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Desktop Test\Desktop Test\bin\Debug\BusinessLogic.xml
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Desktop Test\Desktop Test\bin\Debug\BusinessLogic.dll.config
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Desktop Test\Desktop Test\bin\Debug\Code Test.pdb
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Desktop Test\Desktop Test\bin\Debug\Code Test.exe.config
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Desktop Test\Desktop Test\bin\Debug\FrameWork.pdb
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Desktop Test\Desktop Test\bin\Debug\FrameWork.dll.config
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Desktop Test\Desktop Test\bin\Debug\EntityFramework.xml
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Desktop Test\Desktop Test\bin\Debug\EntityFramework.SqlServer.xml
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Desktop Test\Desktop Test\bin\Debug\Newtonsoft.Json.xml
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Desktop Test\Desktop Test\bin\Debug\System.Web.Http.xml
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Desktop Test\Desktop Test\bin\Debug\System.Net.Http.Formatting.xml
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Desktop Test\Desktop Test\bin\Debug\es\System.Web.Http.resources.dll
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Desktop Test\Desktop Test\bin\Debug\es\System.Net.Http.Formatting.resources.dll
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Desktop Test\Desktop Test\obj\Debug\Desktop Test.vbprojAssemblyReference.cache
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Desktop Test\Desktop Test\obj\Debug\Desktop Test.vbproj.ResolveComReference.cache
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Desktop Test\Desktop Test\obj\Debug\Desktop_Test.Ejemplo_Excel.resources
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Desktop Test\Desktop Test\obj\Debug\Desktop_Test.Resources.resources
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Desktop Test\Desktop Test\obj\Debug\Desktop Test.vbproj.GenerateResource.cache
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Desktop Test\Desktop Test\obj\Debug\Desktop Test.vbproj.CoreCompileInputs.cache
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Desktop Test\Desktop Test\obj\Debug\Desktop Test.vbproj.CopyComplete
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Desktop Test\Desktop Test\obj\Debug\Desktop Test.exe
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Desktop Test\Desktop Test\obj\Debug\Desktop Test.pdb
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Desktop Test\Desktop Test\bin\Debug\5.Queries\Queries.enc
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Desktop Test\Desktop Test\bin\Debug\Forms\Ejemplos\JSON\Ejemplo.json
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Desktop Test\Desktop Test\bin\Debug\Desktop Test.exe.config
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Desktop Test\Desktop Test\bin\Debug\Desktop Test.exe
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Desktop Test\Desktop Test\bin\Debug\Desktop Test.pdb
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Desktop Test\Desktop Test\bin\Debug\BusinessLogic.dll
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Desktop Test\Desktop Test\bin\Debug\Code Test.exe
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Desktop Test\Desktop Test\bin\Debug\EntityFramework.dll
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Desktop Test\Desktop Test\bin\Debug\EntityFramework.SqlServer.dll
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Desktop Test\Desktop Test\bin\Debug\FrameWork.dll
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Desktop Test\Desktop Test\bin\Debug\Newtonsoft.Json.dll
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Desktop Test\Desktop Test\bin\Debug\System.Web.Http.dll
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Desktop Test\Desktop Test\bin\Debug\System.Net.Http.Formatting.dll
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Desktop Test\Desktop Test\bin\Debug\BusinessLogic.pdb
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Desktop Test\Desktop Test\bin\Debug\BusinessLogic.xml
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Desktop Test\Desktop Test\bin\Debug\BusinessLogic.dll.config
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Desktop Test\Desktop Test\bin\Debug\Code Test.pdb
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Desktop Test\Desktop Test\bin\Debug\Code Test.exe.config
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Desktop Test\Desktop Test\bin\Debug\FrameWork.pdb
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Desktop Test\Desktop Test\bin\Debug\FrameWork.dll.config
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Desktop Test\Desktop Test\bin\Debug\EntityFramework.xml
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Desktop Test\Desktop Test\bin\Debug\EntityFramework.SqlServer.xml
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Desktop Test\Desktop Test\bin\Debug\Newtonsoft.Json.xml
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Desktop Test\Desktop Test\bin\Debug\System.Web.Http.xml
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Desktop Test\Desktop Test\bin\Debug\System.Net.Http.Formatting.xml
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Desktop Test\Desktop Test\bin\Debug\es\System.Web.Http.resources.dll
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Desktop Test\Desktop Test\bin\Debug\es\System.Net.Http.Formatting.resources.dll
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Desktop Test\Desktop Test\obj\Debug\Desktop Test.vbproj.AssemblyReference.cache
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Desktop Test\Desktop Test\obj\Debug\Desktop Test.vbproj.ResolveComReference.cache
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Desktop Test\Desktop Test\obj\Debug\Desktop_Test.Ejemplo_Excel.resources
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Desktop Test\Desktop Test\obj\Debug\Desktop_Test.Resources.resources
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Desktop Test\Desktop Test\obj\Debug\Desktop Test.vbproj.GenerateResource.cache
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Desktop Test\Desktop Test\obj\Debug\Desktop Test.vbproj.CoreCompileInputs.cache
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Desktop Test\Desktop Test\obj\Debug\Desktop Test.exe
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Desktop Test\Desktop Test\obj\Debug\Desktop Test.pdb
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Desktop Test\Desktop Test\obj\Debug\Desktop .BC11EE41.Up2Date

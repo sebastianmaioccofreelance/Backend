@@ -1,0 +1,154 @@
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Web Test\bin\Web Test.dll.config
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Web Test\bin\Web Test.dll
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Web Test\bin\Web Test.pdb
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Web Test\bin\WebForms_Basic.xml
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Web Test\bin\roslyn\csc.exe
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Web Test\bin\roslyn\csc.exe.config
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Web Test\bin\roslyn\csc.rsp
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Web Test\bin\roslyn\csi.exe
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Web Test\bin\roslyn\csi.exe.config
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Web Test\bin\roslyn\csi.rsp
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Web Test\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Web Test\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Web Test\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Web Test\bin\roslyn\Microsoft.CodeAnalysis.dll
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Web Test\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Web Test\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Web Test\bin\roslyn\Microsoft.CSharp.Core.targets
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Web Test\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Web Test\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Web Test\bin\roslyn\Microsoft.Managed.Core.targets
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Web Test\bin\roslyn\Microsoft.VisualBasic.Core.targets
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Web Test\bin\roslyn\System.AppContext.dll
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Web Test\bin\roslyn\System.Collections.Immutable.dll
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Web Test\bin\roslyn\System.Console.dll
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Web Test\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Web Test\bin\roslyn\System.Diagnostics.StackTrace.dll
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Web Test\bin\roslyn\System.IO.Compression.dll
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Web Test\bin\roslyn\System.IO.FileSystem.dll
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Web Test\bin\roslyn\System.IO.FileSystem.Primitives.dll
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Web Test\bin\roslyn\System.IO.Pipes.AccessControl.dll
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Web Test\bin\roslyn\System.IO.Pipes.dll
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Web Test\bin\roslyn\System.Reflection.Metadata.dll
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Web Test\bin\roslyn\System.Security.AccessControl.dll
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Web Test\bin\roslyn\System.Security.Claims.dll
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Web Test\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Web Test\bin\roslyn\System.Security.Cryptography.Encoding.dll
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Web Test\bin\roslyn\System.Security.Cryptography.Primitives.dll
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Web Test\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Web Test\bin\roslyn\System.Security.Principal.Windows.dll
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Web Test\bin\roslyn\System.Text.Encoding.CodePages.dll
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Web Test\bin\roslyn\System.ValueTuple.dll
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Web Test\bin\roslyn\System.Xml.ReaderWriter.dll
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Web Test\bin\roslyn\System.Xml.XmlDocument.dll
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Web Test\bin\roslyn\System.Xml.XPath.dll
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Web Test\bin\roslyn\System.Xml.XPath.XDocument.dll
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Web Test\bin\roslyn\vbc.exe
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Web Test\bin\roslyn\vbc.exe.config
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Web Test\bin\roslyn\vbc.rsp
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Web Test\bin\roslyn\VBCSCompiler.exe
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Web Test\bin\roslyn\VBCSCompiler.exe.config
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Web Test\bin\Antlr3.Runtime.dll
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Web Test\bin\AspNet.ScriptManager.bootstrap.dll
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Web Test\bin\AspNet.ScriptManager.jQuery.dll
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Web Test\bin\Microsoft.AspNet.FriendlyUrls.dll
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Web Test\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Web Test\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Web Test\bin\Microsoft.ScriptManager.MSAjax.dll
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Web Test\bin\Microsoft.ScriptManager.WebForms.dll
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Web Test\bin\Microsoft.Web.Infrastructure.dll
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Web Test\bin\Newtonsoft.Json.dll
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Web Test\bin\System.Web.Optimization.dll
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Web Test\bin\WebGrease.dll
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Web Test\bin\System.Web.Optimization.xml
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Web Test\bin\Newtonsoft.Json.xml
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Web Test\bin\Antlr3.Runtime.pdb
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Web Test\bin\Microsoft.AspNet.FriendlyUrls.xml
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Web Test\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Web Test\bin\es\System.Web.Optimization.resources.dll
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Web Test\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Web Test\obj\Debug\Web Test.vbprojAssemblyReference.cache
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Web Test\obj\Debug\Web_Test.Resources.resources
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Web Test\obj\Debug\Web Test.vbproj.GenerateResource.cache
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Web Test\obj\Debug\Web Test.vbproj.CoreCompileInputs.cache
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Web Test\obj\Debug\Web Test.vbproj.CopyComplete
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Web Test\obj\Debug\Web Test.dll
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Web Test\obj\Debug\WebForms_Basic.xml
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Web Test\obj\Debug\Web Test.pdb
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Web Test\bin\Web Test.dll.config
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Web Test\bin\Web Test.dll
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Web Test\bin\Web Test.pdb
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Web Test\bin\WebForms_Basic.xml
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Web Test\bin\roslyn\csc.exe
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Web Test\bin\roslyn\csc.exe.config
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Web Test\bin\roslyn\csc.rsp
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Web Test\bin\roslyn\csi.exe
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Web Test\bin\roslyn\csi.exe.config
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Web Test\bin\roslyn\csi.rsp
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Web Test\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Web Test\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Web Test\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Web Test\bin\roslyn\Microsoft.CodeAnalysis.dll
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Web Test\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Web Test\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Web Test\bin\roslyn\Microsoft.CSharp.Core.targets
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Web Test\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Web Test\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Web Test\bin\roslyn\Microsoft.Managed.Core.targets
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Web Test\bin\roslyn\Microsoft.VisualBasic.Core.targets
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Web Test\bin\roslyn\System.AppContext.dll
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Web Test\bin\roslyn\System.Collections.Immutable.dll
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Web Test\bin\roslyn\System.Console.dll
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Web Test\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Web Test\bin\roslyn\System.Diagnostics.StackTrace.dll
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Web Test\bin\roslyn\System.IO.Compression.dll
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Web Test\bin\roslyn\System.IO.FileSystem.dll
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Web Test\bin\roslyn\System.IO.FileSystem.Primitives.dll
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Web Test\bin\roslyn\System.IO.Pipes.AccessControl.dll
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Web Test\bin\roslyn\System.IO.Pipes.dll
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Web Test\bin\roslyn\System.Reflection.Metadata.dll
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Web Test\bin\roslyn\System.Security.AccessControl.dll
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Web Test\bin\roslyn\System.Security.Claims.dll
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Web Test\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Web Test\bin\roslyn\System.Security.Cryptography.Encoding.dll
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Web Test\bin\roslyn\System.Security.Cryptography.Primitives.dll
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Web Test\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Web Test\bin\roslyn\System.Security.Principal.Windows.dll
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Web Test\bin\roslyn\System.Text.Encoding.CodePages.dll
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Web Test\bin\roslyn\System.ValueTuple.dll
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Web Test\bin\roslyn\System.Xml.ReaderWriter.dll
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Web Test\bin\roslyn\System.Xml.XmlDocument.dll
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Web Test\bin\roslyn\System.Xml.XPath.dll
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Web Test\bin\roslyn\System.Xml.XPath.XDocument.dll
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Web Test\bin\roslyn\vbc.exe
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Web Test\bin\roslyn\vbc.exe.config
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Web Test\bin\roslyn\vbc.rsp
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Web Test\bin\roslyn\VBCSCompiler.exe
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Web Test\bin\roslyn\VBCSCompiler.exe.config
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Web Test\bin\Antlr3.Runtime.dll
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Web Test\bin\AspNet.ScriptManager.bootstrap.dll
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Web Test\bin\AspNet.ScriptManager.jQuery.dll
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Web Test\bin\Microsoft.AspNet.FriendlyUrls.dll
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Web Test\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Web Test\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Web Test\bin\Microsoft.ScriptManager.MSAjax.dll
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Web Test\bin\Microsoft.ScriptManager.WebForms.dll
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Web Test\bin\Microsoft.Web.Infrastructure.dll
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Web Test\bin\Newtonsoft.Json.dll
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Web Test\bin\System.Web.Optimization.dll
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Web Test\bin\WebGrease.dll
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Web Test\bin\System.Web.Optimization.xml
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Web Test\bin\Newtonsoft.Json.xml
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Web Test\bin\Antlr3.Runtime.pdb
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Web Test\bin\Microsoft.AspNet.FriendlyUrls.xml
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Web Test\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Web Test\bin\es\System.Web.Optimization.resources.dll
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Web Test\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Web Test\obj\Debug\Web Test.vbproj.AssemblyReference.cache
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Web Test\obj\Debug\Web_Test.Resources.resources
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Web Test\obj\Debug\Web Test.vbproj.GenerateResource.cache
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Web Test\obj\Debug\Web Test.vbproj.CoreCompileInputs.cache
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Web Test\obj\Debug\Web Test.vbproj.CopyComplete
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Web Test\obj\Debug\Web Test.dll
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Web Test\obj\Debug\WebForms_Basic.xml
+P:\Web\Proyectos\Proyectos(Negocios)\Talentosos\Backend\Web Test\obj\Debug\Web Test.pdb

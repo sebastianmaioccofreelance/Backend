@@ -1,0 +1,29 @@
+﻿**************************************************************** Microsoft  ****************************************************************
+cuenta:
+
+naiosoft.compania@hotmail.com
+
+administrador;
+
+https://docs.microsoft.com/es-es/azure/api-management/api-management-howto-oauth2
+
+https://apps.dev.microsoft.com/#/applist
+
+https://portal.azure.com/#blade/Microsoft_AAD_RegisteredApps/ApplicationMenuBlade/Overview/appId/ff084107-2d00-4dba-8a7c-38e5e669ec08/objectId/79ae0c82-c1ff-4978-af70-8f315dfa19ce/isMSAApp/true/defaultBlade/Overview/appSignInAudience/PersonalMicrosoftAccount
+
+video: 
+https://www.youtube.com/watch?v=y8KzO3htIgs&t=80s
+
+Obtener codigo de autorizacion:
+
+https://login.microsoftonline.com/consumers/oauth2/v2.0/authorize?scope=openid+email&response_type=code
+
+
+GET ACCESS TOKEN
+
+https://login.microsoftonline.com/consumers/oauth2/v2.0/token
+
+GET USER INFO
+
+https://graph.microsoft.com/oidc/userinfo
+

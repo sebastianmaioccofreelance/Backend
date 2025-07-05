@@ -1,0 +1,22 @@
+﻿**************************************************************** Tik Tok  ****************************************************************
+
+
+documentos
+https://ads.tiktok.com/athena/docs/index.html?plat_id=-1&doc_id=100010&id=1689609077264385&key=e98b971a296ae45d8e35a22fba032d1c06f5973de9aab73ce07b82f230cf3afd
+
+video
+https://bytedance.feishu.cn/file/boxcnRHaRO7sBYhSsmfL4I5dEnd
+
+
+auth
+https://ads.tiktok.com/marketing_api/auth?
+app_id=xxxx
+&state=xxxxx
+&redirect_uri=https://xxxxxx.xxxx
+&rid=xxxxxx
+
+access token
+https://ads.tiktok.com/open_api/oauth2/access_token_v2
+
+get info
+https://ads.tiktok.com/open_api/v1.2/user/info/

@@ -1,0 +1,46 @@
+P:\Web\Proyectos\FrameWork\Code Test\bin\Debug\Code Test.dll.config
+P:\Web\Proyectos\FrameWork\Code Test\bin\Debug\Code Test.dll
+P:\Web\Proyectos\FrameWork\Code Test\bin\Debug\Code Test.pdb
+P:\Web\Proyectos\FrameWork\Code Test\bin\Debug\FrameWork.dll
+P:\Web\Proyectos\FrameWork\Code Test\bin\Debug\Newtonsoft.Json.dll
+P:\Web\Proyectos\FrameWork\Code Test\bin\Debug\EntityFramework.dll
+P:\Web\Proyectos\FrameWork\Code Test\bin\Debug\System.Web.Http.dll
+P:\Web\Proyectos\FrameWork\Code Test\bin\Debug\SautinSoft.ExcelToPdf.dll
+P:\Web\Proyectos\FrameWork\Code Test\bin\Debug\System.Net.Http.Formatting.dll
+P:\Web\Proyectos\FrameWork\Code Test\bin\Debug\FrameWork.pdb
+P:\Web\Proyectos\FrameWork\Code Test\bin\Debug\FrameWork.dll.config
+P:\Web\Proyectos\FrameWork\Code Test\bin\Debug\Newtonsoft.Json.xml
+P:\Web\Proyectos\FrameWork\Code Test\bin\Debug\EntityFramework.xml
+P:\Web\Proyectos\FrameWork\Code Test\bin\Debug\System.Web.Http.xml
+P:\Web\Proyectos\FrameWork\Code Test\bin\Debug\SautinSoft.ExcelToPdf.xml
+P:\Web\Proyectos\FrameWork\Code Test\bin\Debug\System.Net.Http.Formatting.xml
+P:\Web\Proyectos\FrameWork\Code Test\bin\Debug\es\System.Web.Http.resources.dll
+P:\Web\Proyectos\FrameWork\Code Test\bin\Debug\es\System.Net.Http.Formatting.resources.dll
+P:\Web\Proyectos\FrameWork\Code Test\obj\Debug\Code Test.vbprojAssemblyReference.cache
+P:\Web\Proyectos\FrameWork\Code Test\obj\Debug\Code Test.vbproj.CoreCompileInputs.cache
+P:\Web\Proyectos\FrameWork\Code Test\obj\Debug\Code Test.vbproj.CopyComplete
+P:\Web\Proyectos\FrameWork\Code Test\obj\Debug\Code Test.dll
+P:\Web\Proyectos\FrameWork\Code Test\obj\Debug\Code Test.pdb
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Code Test\bin\Debug\Code Test.pdb
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Code Test\bin\Debug\FrameWork.dll
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Code Test\bin\Debug\Newtonsoft.Json.dll
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Code Test\bin\Debug\EntityFramework.dll
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Code Test\bin\Debug\System.Web.Http.dll
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Code Test\bin\Debug\SautinSoft.ExcelToPdf.dll
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Code Test\bin\Debug\System.Net.Http.Formatting.dll
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Code Test\bin\Debug\FrameWork.pdb
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Code Test\bin\Debug\FrameWork.dll.config
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Code Test\bin\Debug\Newtonsoft.Json.xml
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Code Test\bin\Debug\EntityFramework.xml
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Code Test\bin\Debug\System.Web.Http.xml
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Code Test\bin\Debug\SautinSoft.ExcelToPdf.xml
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Code Test\bin\Debug\System.Net.Http.Formatting.xml
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Code Test\bin\Debug\es\System.Web.Http.resources.dll
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Code Test\bin\Debug\es\System.Net.Http.Formatting.resources.dll
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Code Test\obj\Debug\Code Test.vbprojAssemblyReference.cache
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Code Test\obj\Debug\Code Test.vbproj.CoreCompileInputs.cache
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Code Test\obj\Debug\Code Test.vbproj.CopyComplete
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Code Test\obj\Debug\Code Test.pdb
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Code Test\bin\Debug\Code Test.exe.config
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Code Test\bin\Debug\Code Test.exe
+P:\Web\Proyectos\Proyectos(Negocios)\FrameWork\Code Test\obj\Debug\Code Test.exe
